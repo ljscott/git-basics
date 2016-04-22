@@ -1,0 +1,53 @@
+---
+title: "RMarkup 2015 Transcript Processing"
+author: "Lesli"
+date: "April 5, 2016"
+output: html_document
+---
+
+Variable Name
+NCEE_MaskedID
+state
+SchoolName
+~~enrollment~~
+YearEntered9thGrade
+~~Wave_Herberger~~
+semester_grade
+      semester_year
+semester
+*TermCode*  convert to semester?
+CourseID
+~~crs_retake_MetroCentral~~
+Mark_alpha  should we combine
+mark_pct
+credit_earned
+~~credits_total_yr_Herberger  -to -
+total_credits_yr
+credit_attempt_yr_Amphi
+credit_earned_yr_Amphi
+CreditCmplYrEnd_Central~~
+period   if mostly blank, delete
+BES_test_Central
+ACT_QC_Course_Todd
+EOC_ALGEBRA_II
+EOC_ENGLISH_9
+EOC_BIOLOGY
+GPA_Year_unweighted
+gpa_year_weighted
+gpa_semester_weighted
+DOB
+Gender
+Race
+HispanicLatino
+ELL
+ELL_Status_Amphi
+FreeLunch
+LunchStatus_Toltec
+SPED
+SPED_Label
+SPEDLabels
+~~Disability_Todd
+Diploma_Herberger~~
+
+1- is 'enrollment' used in consistent ways across years?  Delete?
+2- how does year entered ninth relate to Cohort?  How much missing? Convert?

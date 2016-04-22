@@ -1,3 +1,5 @@
 This is the text message in my test.  I also will make a modification.
 
 When I switch to fourthfile branch, I should see this line.
+
+During the merging tutorial, I add this line.
